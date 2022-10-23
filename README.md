@@ -1,4 +1,4 @@
-# Data-Structures-and-algorithms
+# Data Structures and Algorithms
 My personal Data structures and algorithms study repo
 
 # Scope
